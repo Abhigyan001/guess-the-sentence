@@ -1,11 +1,11 @@
 # Guess The Sentence
 Guess The Sentence is a web app that lets user guess scrambled sentences. The website is made with React.js.
 # Project :  Guess The Sentence
-Users play a game of guess the correct sentence.
+Users play a game of guessing the correct sentence.The sentences appear in scrambled form. After 10 tries, the score determine whether user won or lost the game.
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://guess-scrambled-sentence.netlify.app/)
 
 ## Build-With
 
